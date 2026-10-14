@@ -1,9 +1,3 @@
-# BIG EARL EATS AMERICA — MASTER PROMPT
-
-Copy everything inside the box below into ChatGPT or Claude. Fill in the 3 lines at the top first.
-It will write new Dola prompts in the exact same format as PROMPT 1–400, plus a separate caption list.
-
-```
 START NUMBER: 401
 HOW MANY PROMPTS: 50
 THEME / IDEAS (optional): (example: "winter foods", "Earl in Florida", "fan requests", or leave empty)
@@ -76,52 +70,3 @@ PROMPT <number> — <Title>
 #BigEarlEatsAmerica #<FoodTag> #foodie #funny #reels
 
 If HOW MANY PROMPTS is more than 25, write them in parts of 25 and wait for me to say "next" before continuing.
-```
-
-## Example of one finished prompt
-
-```
-PROMPT 201 — NYC CHOPPED CHEESE
-
-EXACT 30 SECOND VIDEO. Seedance 2.5. Vertical 9:16. Audio on. One continuous video.
-
-REFERENCE IMAGE URLS:
-Big Earl FULL BODY = https://raw.githubusercontent.com/relnoorain2-droid/Big-Earl-Eats-America/main/Redheaded%20Cowboy%20in%20Studio.png
-Big Earl FACE = https://raw.githubusercontent.com/relnoorain2-droid/Big-Earl-Eats-America/main/Rugged%20Ginger-Bearded%20Cowboy%20Portrait.png
-
-CHARACTER LOCK: Big Earl must look exactly like the reference images for the full 30 seconds. American man about 40, about 6'5" tall, heavy-set with a big round belly, fair sunburnt skin with freckles, long thick ginger-red beard reaching his chest, short ginger hair, small light-blue eyes, calm deadpan face. Same weathered brown leather cowboy hat, red-and-black buffalo-check flannel shirt with rolled sleeves, light-blue faded jeans, brown belt with a big oval silver buckle, worn brown cowboy boots. Never change his face, beard, hat, outfit, body size or age. Only one Big Earl in the video.
-
-PLACE: a small corner bodega in the Bronx, New York, at night: shelves of snacks, a deli grill behind the counter, a bodega cat sleeping on the chips, neon lottery signs.
-
-CAMERA: Raw real iPhone video filmed by Earl's friend walking right behind him (the friend is never seen). Starts walking, then handheld and casual. Natural bounce and shake, real autofocus, natural light, true-to-life colors. Looks like a real video posted on social media, not a movie.
-
-0-3s — HOOK
-The friend follows Big Earl from behind as he walks up to the place; Earl turns his head to the phone without stopping.
-DIALOGUE 0-3s — BIG EARL: "New York bodega. They say the chopped cheese is the real New York sandwich."
-
-3-10s — THE ORDER
-The phone turns to a friendly bodega worker in a hoodie chopping meat on the grill.
-DIALOGUE 4-6s — BODEGA GUY: "Chopped cheese, papa?"
-DIALOGUE 6-8s — BIG EARL: "Two. And something for the cat."
-DIALOGUE 8-10s — BODEGA GUY: "Ha! The cat eats better than me!"
-Earl slowly tips his hat.
-
-10-22s — THE TASTE
-A hero roll stuffed with chopped beef, onions, melted cheese, lettuce and tomato wrapped in paper; Earl takes a big bite while the bodega cat watches him. Two people nearby whisper and point at him. The friend steps closer and the autofocus hunts for a second.
-DIALOGUE 17-19s — FRIEND (off camera, laughing): "The cat is judging you, Earl!"
-
-22-30s — PUNCHLINE
-Earl pats his belly and looks into the phone. Completely deadpan.
-DIALOGUE 23-26s — BIG EARL: "The cat approves."
-DIALOGUE 27-29s — BIG EARL: "One more for the road."
-The video ends as Earl winks once at the camera.
-
-SOUND: grill scraping, fridge humming, door bell, city traffic outside. Big Earl's voice: deep, slow, calm American male voice with a light Texas drawl. All lines spoken clearly with lip-sync, in this order. Dialogue louder than background sound. No music.
-NEGATIVE: no cinematic look, no movie lighting, no 3D, no cartoon, no slow motion, no music, no subtitles, no text overlays, no watermark, no logo, no face or beard changes, no outfit changes, no extra fingers, no floating food.
-```
-
-## How to use
-1. Paste the box into ChatGPT/Claude, fill START NUMBER (next is 401), HOW MANY, THEME.
-2. Copy the prompts into a .txt file (separated by `--------`) and the CAPTIONS into a separate .txt file.
-3. Use the same SKILL.md in every Dola account, and one prompt per account.
-4. Do not rename the two Earl images on GitHub, or the image links stop working.
